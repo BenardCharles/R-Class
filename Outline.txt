@@ -1,0 +1,4 @@
+1. Install of R
+2. Installation of R Studio
+3. Background
+4. Basics
